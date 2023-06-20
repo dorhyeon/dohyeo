@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    min-width: 992px;
+    font-family: "Helvetica";
+}
+.logo{
+    height: 100px;
+}
+.logo #asd{
+    line-height: 60px;
+}
+.logo #asd img{
+    vertical-align: middle;
+    padding: 10px 10px;
+}
+.logo #zxc{
+    float: right;
+    list-style: none;
+}
+.logo #zxc li{
+    float: left;
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 66px;
+    padding-right: 35px;
+}
+.logo #zxc li a{
+    text-decoration: none;
+    color: #545454;
+}
+.photo{
+    height: 700px;
+    background-image: url("https://i.namu.wiki/i/mtahhVvNBBHlSKlxTG5K5VkTokZ-0uA4RO_M0JzvQbXHB01UTrSiZRuarNPlRe6DOF7mhmQWHR2g5Vryj1SYketWptIYzDDlNSo96_QWL1710LV7mo5jqJGDSRcRp9aRQfV3ao7lOIqxkVMY8Fy8Jg.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kkk h2{
+    text-align: center;
+    color: #545454;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Helvetica";
+}
+.restaurant-list{
+    width: 735px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.one{
+    text-align: center;
+    width: 225px;
+    display: block;
+    color: #545454;
+    text-decoration: none;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 290px;
+    box-shadow:3px 2px 2px 2px rgb(204, 198, 198);
+}
+.restaurant{
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-align: left;
+    font-size: 20px;
+}
+.explain{
+    text-align: left;
+}
+.gg{
+    clear: both;
+}
+.three{
+    text-align: center;
+    margin-top: 130px;
+    background-color: rgb(231, 227, 227);
+    height: 150px;
+}
+.three a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.kkk img{
+    height: 200px;
+}
+.three img{
+    margin-top: 20px;
+}
